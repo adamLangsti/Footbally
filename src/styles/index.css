@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --color-cyan: #04f5ff;
+    --color-red: #e90052;
+    --color-white: #ffffff;
+    --color-green: #00ff85;
+    --color-purple: #38003c;
+}
