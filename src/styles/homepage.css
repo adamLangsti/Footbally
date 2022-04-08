@@ -1,0 +1,10 @@
+.homepage {
+    height: 100vh;
+    position: relative;
+}
+
+.hero-logo {
+    height: 10em;
+    position: absolute;
+    transform: translateX(2em) translateY(2em);
+}
