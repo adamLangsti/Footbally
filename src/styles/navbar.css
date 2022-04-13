@@ -1,0 +1,8 @@
+.masthead {
+    position: relative;
+    display: block;
+}
+.masthead > .navbar {
+    min-height: 12rem;
+    background-color: var(--color-purple);
+}
